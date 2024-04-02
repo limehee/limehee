@@ -29,4 +29,4 @@
 -   **[위협 모델링 개발](https://github.com/KGU-C-Lab/threat-modeling)** &nbsp;MITRE와 NIST 기준에 따른 위협 분석을 통해 보안 취약성과 대응 방안을 분석하는 프로젝트 [🔗 데모](http://43.201.67.139/)
 -   **[펫밀리](https://github.com/KGU-C-Lab/petmily-server)** &nbsp;안전하고 공정한 반려동물 분양 플랫폼
 -   **[먹어요](https://github.com/InhaHackathon/FoodMarketServer)** &nbsp;지역간 식료품 거래 및 푸드뱅크 기부 플랫폼
--   **[이집내집](https://github.com/EzipNaezip)** &nbsp;AI 이미지 생성 기술을 활용하여 쉽고 편리하게 인테리어 디자인을 제공하는 플랫폼
+-   **[이집내집](https://github.com/EzipNaezip/gd-server)** &nbsp;AI 이미지 생성 기술을 활용하여 쉽고 편리하게 인테리어 디자인을 제공하는 플랫폼
