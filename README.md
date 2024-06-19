@@ -15,15 +15,6 @@
 
 ---
 
-### 👨‍💻 &nbsp;Activities
-
--   **경기대학교 개발보안동아리 C-Lab Core Team** &nbsp;백엔드 리드 개발자 (2023.07 - 현재)
--   **경기대학교 개발보안동아리 C-Lab** &nbsp;운영진 (2022.03 - 2023.02)
--   **경기대학교 개발보안동아리 C-Lab** &nbsp;회원 (2019.03 - 현재)
--   **경기대학교 컴퓨터공학부** &nbsp;(2019.03 - 현재)
-
----
-
 ### 💼 &nbsp;Projects
 
 -   **[KGU C-Lab 페이지](https://github.com/KGU-C-Lab/clab-server)** &nbsp;경기대학교 개발보안동아리 C-Lab 공식 페이지 [🔗 웹사이트](https://www.clab.page)
